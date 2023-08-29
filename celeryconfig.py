@@ -1,3 +1,4 @@
+# this is not used but should be implemented on larger projects
 broker_url = 'redis://localhost:6379/0'
 result_backend = 'redis://localhost:6379/0'
 task_serializer = 'json'
